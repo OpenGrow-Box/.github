@@ -9,6 +9,10 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 ## Overview
 Main Repo OpenGrowBox: [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/OpenGrowBox)
 
+Upcooming Soon : 
+- Plug and Play Solution
+- Cannabis Social Club Solution
+
 ---
 
 ## About Us
