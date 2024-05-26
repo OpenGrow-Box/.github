@@ -4,7 +4,7 @@
 Transform your growing environment with the OpenGrowBox, an open-source project designed to automate and optimize your grow tents. This setup uses a Raspberry Pi 4 and a variety of sensors to monitor and control your growing conditions.
 
 # OpenGrowBox for Everyone!!!
-![image](https://github.com/OpenGrowBox/OpenGrowBox/assets/170749418/f0598a24-5961-43bf-93d0-b7042d4ef2b0)
+![image](https://github.com/OpenGrowBox/OpenGrowBox/assets/170749418/566cee62-e29a-4804-8368-2697865b830b)
 
 ## Overview
 Main Repo OpenGrowBox: https://github.com/OpenGrow-Box/OpenGrowBox
