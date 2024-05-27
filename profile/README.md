@@ -1,5 +1,4 @@
-# Hi there 👋
-**Welcome to OpenGrowBox**
+# Hi there 👋 and Welcome to OpenGrowBox
 
 Transform your growing environment with the OpenGrowBox, an open-source project designed to automate and optimize your grow tents. This setup uses a Raspberry Pi 4 and a variety of sensors to monitor and control your growing conditions.
 
@@ -9,9 +8,12 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 ## Overview
 Main Repo OpenGrowBox: [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/OpenGrowBox)
 
-Upcooming Soon : 
-- Plug and Play Solution
-- Cannabis Social Club Solution
+### Upcooming Soon : 
+-- Automatic Wattering Based on Data
+-- Plug and Play Solution
+-- Cannabis Social Club Solution and Integration
+
+
 
 ---
 
