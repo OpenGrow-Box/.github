@@ -10,10 +10,9 @@ Main Repo OpenGrowBox: [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/Op
 
 ### Cooming Soon : 
 - Automatic Wattering Based on Data
+- Climate Device Controll
 - Plug and Play Solution
 - Cannabis Social Club Solution and Integration
-
-
 
 ---
 
