@@ -9,9 +9,9 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 Main Repo OpenGrowBox: [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/OpenGrowBox)
 
 ### Cooming Soon : 
--- Automatic Wattering Based on Data
--- Plug and Play Solution
--- Cannabis Social Club Solution and Integration
+- Automatic Wattering Based on Data
+- Plug and Play Solution
+- Cannabis Social Club Solution and Integration
 
 
 
