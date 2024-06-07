@@ -6,11 +6,11 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 
 
 # OpenGrowBox for Everyone!!!
-![image](https://github.com/OpenGrow-Box/.github/assets/170749418/a5a2851f-9d60-43f9-afd9-fdd50ef6b9cf)
+![image](https://github.com/OpenGrow-Box/.github/assets/170749418/766bae7c-e617-41e7-818c-58011adcff25)
 
 
-## Overview
-Main Repo OpenGrowBox: [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/OpenGrowBox)
+
+# Overview Main Repo OpenGrowBox: [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/OpenGrowBox)
 
 ### Cooming Soon : 
 - Automatic Wattering Based on Data
