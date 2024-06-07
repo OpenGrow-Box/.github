@@ -4,7 +4,9 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 
 
 # Overview Main Repo OpenGrowBox: 
-- Version 1 [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/OpenGrowBox)
+#Version 1 [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/OpenGrowBox)
+
+
 # [WIKI](https://wiki.opengrowbox.net)
 
 
