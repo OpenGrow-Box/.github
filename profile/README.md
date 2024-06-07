@@ -6,9 +6,7 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 
 
 # OpenGrowBox for Everyone!!!
-![image](https://github.com/OpenGrow-Box/.github/assets/170749418/766bae7c-e617-41e7-818c-58011adcff25)
-
-
+![image](https://github.com/OpenGrow-Box/.github/assets/170749418/1cac937c-5094-4019-b89f-7151300cbb4a)
 
 # Overview Main Repo OpenGrowBox: [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/OpenGrowBox)
 
