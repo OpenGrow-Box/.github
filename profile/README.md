@@ -14,7 +14,8 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 
 
 # OpenGrowBox for Everyone!!!
-![image](https://github.com/OpenGrow-Box/.github/assets/170749418/1cac937c-5094-4019-b89f-7151300cbb4a)
+![image](https://github.com/OpenGrow-Box/.github/assets/170749418/57ae98c0-e408-434b-9ded-eeab25c4a193)
+
 
 
 ### Cooming Soon : 
