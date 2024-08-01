@@ -45,7 +45,7 @@ Feel free to contribute in any way you like! Whether it's code, ideas, or feedba
 ## Sponsors
 
 - [Chili Welten](chiliwelten.de)
-
+- [cre.science](https://cre.science/)
 ---
 
 Interested in sponsoring OpenGrowBox or becoming a part of this amazing team? Reach out to us via email to discuss sponsorship opportunities.
