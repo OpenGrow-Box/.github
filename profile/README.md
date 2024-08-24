@@ -44,7 +44,7 @@ Feel free to contribute in any way you like! Whether it's code, ideas, or feedba
 
 ## Sponsors
 
-- [Chili Welten](chiliwelten.de)
+- [Chili Welten](https://chiliwelten.de)
 - [cre.science](https://cre.science/)
 ---
 
