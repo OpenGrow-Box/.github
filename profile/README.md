@@ -9,6 +9,7 @@ Transform your growing environment with the OpenGrowBox, an open-source project 
 
 # [WIKI](https://wiki.opengrowbox.net)
 
+# CresControl can now be used with OpenGrowBox!!!
 
 # Working on a Plug and Play Solution!!!
 
