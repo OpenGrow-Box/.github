@@ -6,8 +6,8 @@ Transform your growing environment with the **OpenGrowBox**, an open-source proj
 
 ---
 
-## Main Repository
-### Integration 
+
+# Integration 
 - https://github.com/OpenGrow-Box/OpenGrowBox-HA
 
 ## Exciting Updates 🚀
