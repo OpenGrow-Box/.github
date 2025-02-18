@@ -7,18 +7,8 @@ Transform your growing environment with the **OpenGrowBox**, an open-source proj
 ---
 
 ## Main Repository
-
-Explore the main project repository for OpenGrowBox:
-
-- [GitHub - OpenGrowBox](https://github.com/OpenGrow-Box/OpenGrowBox)
-
----
-
-## [WIKI](https://wiki.opengrowbox.net)
-
-Dive into our comprehensive documentation and guides on the OpenGrowBox Wiki.
-
----
+### Integration 
+- https://github.com/OpenGrow-Box/OpenGrowBox-HA
 
 ## Exciting Updates 🚀
 
