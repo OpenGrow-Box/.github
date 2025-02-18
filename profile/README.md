@@ -4,8 +4,6 @@ Transform your growing environment with the **OpenGrowBox**, an open-source proj
 
 ## ONE Control To Rule Them ALL 🌱
 
----
-
 
 # Integration 
 - https://github.com/OpenGrow-Box/OpenGrowBox-HA
@@ -31,9 +29,18 @@ We are actively working on a **Plug-and-Play Solution** for effortless setup:
 
 ## OpenGrowBox for Everyone 🌍
 
-![OpenGrowBox](https://github.com/user-attachments/assets/5db4cee5-636f-4657-8a78-bf7407503be0)
+### Control Panel 
+![image](https://github.com/user-attachments/assets/6a996ac9-d7fa-44fd-b5f9-0840c984ab41)
 
----
+### Dashboard
+![image](https://github.com/user-attachments/assets/1c6a08ca-fe2a-4840-b6c4-559f31f74c2c)
+
+### GrowBook
+![image](https://github.com/user-attachments/assets/9950fff0-4dda-4355-914c-4fa010e87ea6)
+
+### Settings
+![image](https://github.com/user-attachments/assets/dcfeaade-fc02-4294-a7e1-4369720069ac)
+
 
 ## About Us 💡
 
