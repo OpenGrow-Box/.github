@@ -7,8 +7,9 @@ Transform your growing environment with the **OpenGrowBox**, an open-source proj
 
 # Integration 
 - https://github.com/OpenGrow-Box/OpenGrowBox-HA
+# Frontend
+- https://github.com/OpenGrow-Box/OpenGrowBox-Frontend
 
-## Exciting Updates 🚀
 
 ### CresControl is Now Compatible with OpenGrowBox!
 
