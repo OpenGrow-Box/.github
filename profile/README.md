@@ -41,7 +41,8 @@ We are actively working on a **Plug-and-Play Solution** for effortless setup:
 ![image](https://github.com/user-attachments/assets/9950fff0-4dda-4355-914c-4fa010e87ea6)
 
 ### Settings
-![image](https://github.com/user-attachments/assets/dcfeaade-fc02-4294-a7e1-4369720069ac)
+![image](https://github.com/user-attachments/assets/c9199f42-29d6-4ff7-afaf-8662d31b6d47)
+
 
 
 ## About Us 💡
