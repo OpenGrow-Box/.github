@@ -38,7 +38,7 @@ We are actively working on a **Plug-and-Play Solution** for effortless setup:
 ![image](https://github.com/user-attachments/assets/cfe18c63-ed01-4e75-9241-95398430287c)
 
 ### GrowBook
-![image](https://github.com/user-attachments/assets/ff015ce8-3423-4ee9-b330-7f5357ceaf7f)
+![image](https://github.com/user-attachments/assets/c66a0c4a-2669-4a1e-bcbe-af313f76eb7b)
 
 ### Settings
 ![image](https://github.com/user-attachments/assets/c9199f42-29d6-4ff7-afaf-8662d31b6d47)
