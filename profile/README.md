@@ -32,13 +32,13 @@ We are actively working on a **Plug-and-Play Solution** for effortless setup:
 ## OpenGrowBox for Everyone 🌍
 
 ### Control Panel 
-![image](https://github.com/user-attachments/assets/6a996ac9-d7fa-44fd-b5f9-0840c984ab41)
+![image](https://github.com/user-attachments/assets/fd02f4bf-c3e2-478e-95b6-48d7c03f89d3)
 
 ### Dashboard
-![image](https://github.com/user-attachments/assets/1c6a08ca-fe2a-4840-b6c4-559f31f74c2c)
+![image](https://github.com/user-attachments/assets/cfe18c63-ed01-4e75-9241-95398430287c)
 
 ### GrowBook
-![image](https://github.com/user-attachments/assets/9950fff0-4dda-4355-914c-4fa010e87ea6)
+![image](https://github.com/user-attachments/assets/ff015ce8-3423-4ee9-b330-7f5357ceaf7f)
 
 ### Settings
 ![image](https://github.com/user-attachments/assets/c9199f42-29d6-4ff7-afaf-8662d31b6d47)
