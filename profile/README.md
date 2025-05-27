@@ -1,76 +1,103 @@
-# Hi there 👋 and Welcome to OpenGrowBox
+# 👋 Hi there – Welcome to OpenGrowBox!
 
-Transform your growing environment with the **OpenGrowBox**, an open-source project designed to automate and optimize your grow tents. With any Hardware that Supports Home Assitant and a variety of sensors, you can monitor and control your growing conditions with ease.
-
-## ONE Control To Rule Them ALL 🌱
-
-# WIKI
-- https://github.com/OpenGrow-Box/OpenGrowBox/wiki
-# Integration 
-- https://github.com/OpenGrow-Box/OpenGrowBox-HA
-# Frontend
-- https://github.com/OpenGrow-Box/OpenGrowBox-Frontend
-
-
-### CresControl is Now Compatible with OpenGrowBox!
-Take advantage of CresControl to elevate your growing experience.
-
-### Plug-and-Play Solution in Progress
-
-We are actively working on a **Plug-and-Play Solution** for effortless setup:
-- Current status: Done ✅
-- Device Integration: Done ✅
-
-### Cannabis Social Club Solution
-- Fully Dynamic Integration ✅
-- Unlimited Room Configurations ✅
+Transform your growing environment with **OpenGrowBox** – an open-source system designed to automate and optimize your grow tents and rooms.  
+Compatible with any hardware that supports **Home Assistant**, it brings powerful control, monitoring, and customization to your fingertips.
 
 ---
 
-## OpenGrowBox for Everyone 🌍
+## 🌱 ONE Control To Rule Them ALL
 
-### Control Panel 
-![image](https://github.com/user-attachments/assets/fd02f4bf-c3e2-478e-95b6-48d7c03f89d3)
-
-### Dashboard
-![image](https://github.com/user-attachments/assets/cfe18c63-ed01-4e75-9241-95398430287c)
-
-### GrowBook
-![image](https://github.com/user-attachments/assets/c66a0c4a-2669-4a1e-bcbe-af313f76eb7b)
-
-### Settings
-![image](https://github.com/user-attachments/assets/c9199f42-29d6-4ff7-afaf-8662d31b6d47)
-
-
-
-## About Us 💡
-
-We are a community of plant enthusiasts dedicated to automating and optimizing grow environments for the best results with minimal effort. Join us in revolutionizing the way plants are grown!
+OpenGrowBox intelligently connects sensors, actuators, and grow logic to give you a seamless and automated growing experience – from hobbyist to pro-level setups.
 
 ---
 
-## Contributing 🤝
+## 📚 Project Structure
 
-Contributions are welcome! Whether it’s code, ideas, or feedback, your input makes a difference. Fork the repository, create a new branch, and submit a pull request to become part of the OpenGrowBox community.
+### 🧭 Wiki  
+Your starting point for docs, guides & architecture  
+➡️ [OpenGrowBox Wiki](https://github.com/OpenGrow-Box/OpenGrowBox/wiki)
 
----
+### 🧩 Home Assistant Integration  
+Core logic and device control  
+➡️ [OpenGrowBox-HA](https://github.com/OpenGrow-Box/OpenGrowBox-HA)
 
-## Fun Facts 🌟
-
-- Breaking a plant stem? Tape can be your best friend!
-- Proper automation can boost your yield by up to **30%**.
-
----
-
-## Sponsors ❤️
-
-A huge thanks to our sponsors:
-
-- [Chili Welten](https://chiliwelten.de)
-- [cre.science](https://cre.science/)
-
-Interested in sponsoring OpenGrowBox or joining this amazing team? Contact us to discuss sponsorship opportunities.
+### 🎨 Frontend Interface  
+A beautiful interface for managing your grow setup  
+➡️ [OpenGrowBox-Frontend](https://github.com/OpenGrow-Box/OpenGrowBox-Frontend)
 
 ---
 
-Thank you for being a part of the OpenGrowBox journey! 🌱
+## ✨ What’s New
+
+### ✅ CresControl is Now Compatible  
+Elevate your automation game with **CresControl** support!
+
+### 🔌 Plug-and-Play Solution – It’s Here!
+Effortless setup with preconfigured modules  
+- Setup Process: ✅  
+- Device Integration: ✅
+
+### 🌿 Cannabis Social Club Ready  
+Perfect for shared or community grow setups  
+- Fully dynamic integration: ✅  
+- Unlimited room configurations: ✅
+
+---
+
+## 🌍 OpenGrowBox for Everyone
+
+#### 🛠 Control Panel  
+![Control Panel](https://github.com/user-attachments/assets/fd02f4bf-c3e2-478e-95b6-48d7c03f89d3)
+
+#### 📊 Dashboard  
+![Dashboard](https://github.com/user-attachments/assets/cfe18c63-ed01-4e75-9241-95398430287c)
+
+#### 📖 GrowBook  
+![GrowBook](https://github.com/user-attachments/assets/c66a0c4a-2669-4a1e-bcbe-af313f76eb7b)
+
+#### ⚙️ Settings  
+![Settings](https://github.com/user-attachments/assets/c9199f42-29d6-4ff7-afaf-8662d31b6d47)
+
+---
+
+## 💡 About Us
+
+We’re a community of passionate plant lovers and technologists building tools to make **indoor growing smarter, easier, and more accessible**.
+
+OpenGrowBox is a project **by growers, for growers** – developed openly, improved together.
+
+---
+
+## 🤝 Contributing
+
+Want to get involved? Awesome!
+
+- 💻 Fork the repo  
+- 🌿 Create a new branch  
+- 🚀 Submit a pull request
+
+All contributions (code, feedback, ideas) are welcome!
+
+---
+
+## 🌟 Fun Facts
+
+- 💥 Broke a plant stem? A little tape can work wonders.
+- 📈 Smart automation can improve yields by **up to 30%**.
+
+---
+
+## ❤️ Sponsors
+
+Special thanks to our incredible supporters:
+
+- [🌶 Chili Welten](https://chiliwelten.de)  
+- [💡 cre.science](https://cre.science/)
+
+Want to sponsor OpenGrowBox or collaborate with us?  
+**[Get in touch](mailto:team@opengrowbox.com)** and let’s grow together!
+
+---
+
+Thank you for being part of the **OpenGrowBox journey**.  
+Let’s grow smarter, together! 🌱
