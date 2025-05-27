@@ -13,17 +13,15 @@ Transform your growing environment with the **OpenGrowBox**, an open-source proj
 
 
 ### CresControl is Now Compatible with OpenGrowBox!
-
 Take advantage of CresControl to elevate your growing experience.
 
 ### Plug-and-Play Solution in Progress
 
 We are actively working on a **Plug-and-Play Solution** for effortless setup:
-- Current status: Halfway Done ✅
-- Device Integration: Coming Soon 🎉
+- Current status: Done ✅
+- Device Integration: Done ✅
 
 ### Cannabis Social Club Solution
-
 - Fully Dynamic Integration ✅
 - Unlimited Room Configurations ✅
 
