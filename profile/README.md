@@ -52,15 +52,15 @@ Perfect for shared or community grow setups
 
 #### 📊 Dashboard  
 ![Dashboard](![image](https://github.com/user-attachments/assets/b58f5ea4-83a4-4142-b371-fe0b22c6d243)
-)
+
 
 #### 📖 GrowBook  
 ![GrowBook](![image](https://github.com/user-attachments/assets/1124766a-3a92-4d81-9b72-1d83a0564ba2)
-)
+
 
 #### ⚙️ Settings  
 ![Settings](![image](https://github.com/user-attachments/assets/cfabab03-4b3e-40ef-aba4-6878ec0c6c65)
-)
+
 
 ---
 
