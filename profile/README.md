@@ -98,10 +98,6 @@ Special thanks to our incredible supporters:
 - [🌶 Chili Welten](https://chiliwelten.de)  
 - [💡 cre.science](https://cre.science/)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenGrow-Box/OpenGrowBox-HA,OpenGrow-Box/OpenGrowBox,OpenGrow-Box/OpenGrowBox-Frontend&type=Date)](https://www.star-history.com/#OpenGrow-Box/OpenGrowBox-HA&OpenGrow-Box/OpenGrowBox&OpenGrow-Box/OpenGrowBox-Frontend&Date)
-
 
 Want to sponsor OpenGrowBox or collaborate with us?  
 **[Get in touch](mailto:team@opengrowbox.com)** and let’s grow together!
@@ -110,3 +106,8 @@ Want to sponsor OpenGrowBox or collaborate with us?
 
 Thank you for being part of the **OpenGrowBox journey**.  
 Let’s grow smarter, together! 🌱
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=OpenGrow-Box/OpenGrowBox-HA,OpenGrow-Box/OpenGrowBox,OpenGrow-Box/OpenGrowBox-Frontend&type=Date)](https://www.star-history.com/#OpenGrow-Box/OpenGrowBox-HA&OpenGrow-Box/OpenGrowBox&OpenGrow-Box/OpenGrowBox-Frontend&Date)
