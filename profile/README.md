@@ -105,7 +105,7 @@ Want to sponsor OpenGrowBox or collaborate with us?
 ---
 
 📝 License
-This project is licensed under the OGBCL license. Additional premium features are only provided to paying customers and are not part of this project. They are subject to a separate proprietary license.
+This project is licensed under the [OGBCL license](https://github.com/OpenGrow-Box/OpenGrowBox/blob/main/LICENSE). Additional premium features are only provided to paying customers and are not part of this project. They are subject to a separate proprietary license.
 
 ---
 
