@@ -98,14 +98,14 @@ Special thanks to our incredible supporters:
 - [🌶 Chili Welten](https://chiliwelten.de)  
 - [💡 cre.science](https://cre.science/)
 - [🪴 Grundstoff](https://grundstoff-shop.de/)
+- 
+Want to sponsor OpenGrowBox or collaborate with us?  
+**[Get in touch](mailto:team@opengrowbox.com)** and let’s grow together!
 
 ---
 
 📝 License
 This project is licensed under the OGBCL license. Additional premium features are only provided to paying customers and are not part of this project. They are subject to a separate proprietary license.
-
-Want to sponsor OpenGrowBox or collaborate with us?  
-**[Get in touch](mailto:team@opengrowbox.com)** and let’s grow together!
 
 ---
 
