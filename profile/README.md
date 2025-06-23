@@ -98,7 +98,8 @@ Special thanks to our incredible supporters:
 - [🌶 Chili Welten](https://chiliwelten.de)  
 - [💡 cre.science](https://cre.science/)
 - [🪴 Grundstoff](https://grundstoff-shop.de/)
-- 
+- you here ?
+  
 Want to sponsor OpenGrowBox or collaborate with us?  
 **[Get in touch](mailto:team@opengrowbox.com)** and let’s grow together!
 
